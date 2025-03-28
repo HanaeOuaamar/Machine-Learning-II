@@ -1,5 +1,7 @@
 # 🚦   Machine Learning — Série de Travaux Pratiques
 
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue) 
+
 Bienvenue dans ce repository qui regroupe une série de 4 Travaux Pratiques (TP) autour du **Machine Learning** et de l'**Apprentissage par Renforcement** réalisés dans le cadre du cours à l'École Nationale de l'Intelligence Artificielle et du Digital Berkane. Accompagnés d'un environnement de simulation de gestion du trafic routier.
 
 ---
