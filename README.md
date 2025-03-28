@@ -115,7 +115,7 @@ graph TD;
     FeuVert -->|Temps écoulé| FeuJaune
     FeuJaune -->|Précaution| FeuRouge
 ```
-
+![Comparaison Q-Learning vs SARSA](Comparaison.png)
  #### Interprétation:
   Q-Learning est adapté si l'on souhaite maximiser rapidement la performance, quitte à prendre plus de risques dans l’apprentissage.
   SARSA est idéal pour un apprentissage plus sûr et plus stable.
