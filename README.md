@@ -40,7 +40,7 @@ Le fichier **`env_traffic.py`** fournit un environnement de simulation simplifi�
   - les interactions agent-environnement,
   - l'importance d'une politique efficace,
     
-    ### 📁 Fichier : TP1.ipynb
+    ### 📁 Fichier : TP_01.ipynb
     #### Interprétation:
     
     - Un agent qui agit au hasard ne peut pas maintenir le système stable sur le long terme.
@@ -58,7 +58,7 @@ Le fichier **`env_traffic.py`** fournit un environnement de simulation simplifi�
 
     L'objectif est de permettre à un agent d'apprendre à atteindre la cible sans tomber dans l'eau, en maximisant les récompenses.
     
-     ### 📁 Fichier : TP2.ipynb
+     ### 📁 Fichier : TP_02.ipynb
      #### Interprétation:
     
     Fonctions utiles:
@@ -78,7 +78,7 @@ Le fichier **`env_traffic.py`** fournit un environnement de simulation simplifi�
     L’objectif de ce TP est d’optimiser la gestion des feux de circulation à l’aide des algorithmes Q-Learning et SARSA. Il vise à comparer ces deux méthodes d’apprentissage 
     par renforcement afin d’analyser leur impact sur la fluidité du trafic.
 
-    ### 📁 Fichier : TP3.ipynb
+    ### 📁 Fichier : TP_03.ipynb
     #### 🛠 Changements effectués dans le TP
    🔧 1. Correction des erreurs d'index:
       L'environnement génère des états avec des valeurs pouvant dépasser 9 (à cause de self.state += new_cars), alors que la q_table est définie pour des états compris 
@@ -100,7 +100,7 @@ Le fichier **`env_traffic.py`** fournit un environnement de simulation simplifi�
 ### 🎯 Objectif:
 L’objectif de PPO dans ce TP est d’apprendre à un agent à prendre de meilleures décisions (actions) dans un environnement, en mettant à jour sa politique (probabilités d’actions) et sa valeur des états de manière progressive et stable.
 
- ### 📁 Fichier : TP4.ipynb
+ ### 📁 Fichier : TP_04.ipynb
  
    #### Interprétation:
    
