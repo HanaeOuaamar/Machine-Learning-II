@@ -142,6 +142,11 @@ Encadré par : [Mr Mohamed Khalifa Boutahir]
 
 Université : [ENIAD Berkane ]
 
+## 🔗 Liens Utiles  
+
+📌 [Gymnasium Documentation](https://www.gymlibrary.dev/)  
+📌 [Tutoriel OpenAI Gym & Reinforcement Learning](https://huggingface.co/blog/deep-rl-intro)  
+📌 [Documentation officielle Python](https://docs.python.org/3/)  
 
 
 
